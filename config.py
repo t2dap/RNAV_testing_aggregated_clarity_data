@@ -1,7 +1,0 @@
-server_info = 'CORPSQLCERT.CORP.NYCHHC.ORG\CERT'
-# server_info_dev = 'CORPSQLCERT.CORP.NYCHHC.ORG\CERT'
-database_testing='T2DAP'
-# database_upload = 'T2DAP'
-# covid_table = '[CovResponse].[Tableau].[V_COVID19_PCR_Testing_All_Care_Settings]'
-# load_table = '[T2DAP].[ven].[covid19_pcr_testing_all_care_settings]'
-sftp_pwd_kiteworks = 'PleaseCh@ngeThispassword123456'
