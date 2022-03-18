@@ -1,0 +1,1 @@
+"c:\Users\a-sartoria1\rnva_report_venv\Scripts\python.exe" "c:\Users\a-sartoria1\rnav_report_clarity\angelica_rnva.py" 1> "c:\Users\a-sartoria1\rnav_report_clarity\log_scheduler\weekly_sync.log" 2>&1
